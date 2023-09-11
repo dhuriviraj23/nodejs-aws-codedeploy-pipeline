@@ -12,10 +12,10 @@ jobs:
 
       # Step 2
     - name: Set AWS credentials
-      uses: aws-actions/configure-aws-credentials@v1
+      uses: aws-actions/https://adminuser23.signin.aws.amazon.com/console
       with:
-        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID AKIATUNGAHANKBOX4GY6}}
+        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY 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 }}
         aws-region: us-east-1
       # Step 3
     - name: Create CodeDeploy Deployment
