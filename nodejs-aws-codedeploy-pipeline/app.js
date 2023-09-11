@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const hostname = '127.0.0.1'; // Your server ip address
 const port = 3000;
-const version = '2';
+const version = '1';
 const version = '3,000,000';
 
 app.get('/', (req, res) => {
