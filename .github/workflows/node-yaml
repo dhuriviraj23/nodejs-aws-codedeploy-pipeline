@@ -1,5 +1,5 @@
 - name: Debug AWS Credentials
   run: |
-    echo "AWS_ACCESS_KEY_ID: $AWS_ACCESS_KEY_ID"
-    echo "AWS_SECRET_ACCESS_KEY: $AWS_SECRET_ACCESS_KEY"
+    echo "AWS_ACCESS_KEY_ID: $AKIATUNGAHANKBOX4GY6"
+    echo "AWS_SECRET_ACCESS_KEY: $1KSmlLv32XnBFwFajrI0maL4jWmVh9h6lhwYsXmE"
     aws configure list
