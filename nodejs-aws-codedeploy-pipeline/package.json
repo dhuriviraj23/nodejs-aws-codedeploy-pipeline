@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saasscaleup/nodejs-aws-codedeploy-pipeline.git"
+    "url": "https://github.com/dhuriviraj23/nodejs-aws-codedeploy-pipeline/"
   },
   "keywords": [
     "aws",
@@ -29,9 +29,9 @@
   "author": "ScaleUp SaaS",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/saasscaleup/nodejs-aws-codedeploy-pipeline/issues"
+    "url": "https://github.com/dhuriviraj23/nodejs-aws-codedeploy-pipeline/tree/main"
   },
-  "homepage": "https://github.com/saasscaleup/nodejs-aws-codedeploy-pipeline#readme",
+  "homepage": "https://github.com/dhuriviraj23/nodejs-aws-codedeploy-pipeline#readme",
   "dependencies": {
     "express": "^4.18.1"
   }
